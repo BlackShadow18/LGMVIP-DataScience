@@ -3,4 +3,4 @@ This repository consists of all the tasks I have completed so far in this intern
 
 TASK1- Image to pencil sketch
 
-TASK2- Prediction using the decision tree(iris datset)
+TASK2- Prediction using the decision tree(iris dataset)
